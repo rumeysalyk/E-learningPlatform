@@ -1,0 +1,9 @@
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Core\bin\Debug\netcoreapp3.1\EPlatform.Core.deps.json
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Core\bin\Debug\netcoreapp3.1\EPlatform.Core.dll
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Core\bin\Debug\netcoreapp3.1\EPlatform.Core.pdb
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Core\obj\Debug\netcoreapp3.1\EPlatform.Core.csprojAssemblyReference.cache
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Core\obj\Debug\netcoreapp3.1\EPlatform.Core.AssemblyInfoInputs.cache
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Core\obj\Debug\netcoreapp3.1\EPlatform.Core.AssemblyInfo.cs
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Core\obj\Debug\netcoreapp3.1\EPlatform.Core.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Core\obj\Debug\netcoreapp3.1\EPlatform.Core.dll
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Core\obj\Debug\netcoreapp3.1\EPlatform.Core.pdb

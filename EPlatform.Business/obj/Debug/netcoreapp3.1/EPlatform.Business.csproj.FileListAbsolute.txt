@@ -1,0 +1,17 @@
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\bin\Debug\netcoreapp3.1\EPlatform.Business.deps.json
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\bin\Debug\netcoreapp3.1\EPlatform.Business.dll
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\bin\Debug\netcoreapp3.1\EPlatform.Business.pdb
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\obj\Debug\netcoreapp3.1\EPlatform.Business.csprojAssemblyReference.cache
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\obj\Debug\netcoreapp3.1\EPlatform.Business.AssemblyInfoInputs.cache
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\obj\Debug\netcoreapp3.1\EPlatform.Business.AssemblyInfo.cs
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\obj\Debug\netcoreapp3.1\EPlatform.Business.dll
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\obj\Debug\netcoreapp3.1\EPlatform.Business.pdb
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\bin\Debug\netcoreapp3.1\EPlatform.Business.runtimeconfig.json
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\bin\Debug\netcoreapp3.1\EPlatform.Business.runtimeconfig.dev.json
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\obj\Debug\netcoreapp3.1\EPlatform.Business.genruntimeconfig.cache
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\bin\Debug\netcoreapp3.1\EPlatform.DataAccess.dll
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\bin\Debug\netcoreapp3.1\EPlatform.Entities.dll
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\bin\Debug\netcoreapp3.1\EPlatform.DataAccess.pdb
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\bin\Debug\netcoreapp3.1\EPlatform.Entities.pdb
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\obj\Debug\netcoreapp3.1\EPlatform.Business.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa\source\repos\EPlatform\EPlatform.Business\obj\Debug\netcoreapp3.1\EPlatform.Business.csproj.CopyComplete
